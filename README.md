@@ -8,6 +8,7 @@
 ![](screen_pushkin.png)
 
 Ссылка на проект: [https://github.com/KatBelyaeva/uber_eats](https://github.com/KatBelyaeva/uber_eats)
+
 Ссылка на сайт: [https://uber-eats2.netlify.app/](https://uber-eats2.netlify.app/)
 
 ## Контакты
