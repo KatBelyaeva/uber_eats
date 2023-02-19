@@ -11,5 +11,5 @@
 
 Мой email - [kat.belyaeva.it@gmail.com](kat.belyaeva.it@gmail.com)
 
-Ссылка на проект: [https://github.com/KatBelyaeva/SiteRobt](https://github.com/KatBelyaeva/SiteRobt)
+Ссылка на проект: [https://github.com/KatBelyaeva/uber_eats](https://github.com/KatBelyaeva/uber_eats)
 
